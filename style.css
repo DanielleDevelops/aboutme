@@ -23,13 +23,14 @@ header, .student{
 
 body {
 	background-color: #514E56;
-	text-align: center;	
+	text-align: center;
+	margin: auto;
 }	
 
 main {
 	border-style: solid;
 	border-color: black;
-	border-width: 3px;
+	border-width: 6px;
 	margin: 0;
 	padding: 0;
 	;
