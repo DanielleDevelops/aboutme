@@ -1,0 +1,86 @@
+
+/* I feel like this code is fairly self explanitory? */
+
+header, .student{
+	text-align: center;
+	background-color:black;
+	color: #99F1E9;
+	font-family: 'Annie Use Your Telescope';
+	font-size: 25px;
+	margin-top: 0px;
+	padding-bottom:10px;
+	padding-top: 0px;
+	}
+
+.danielle {
+		font-family: 'Bad Script';
+		font-size: 36px;
+		color: #99F1E9;
+		margin-top: 15px;
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+
+body {
+	background-color: #514E56;
+	text-align: center;	
+}	
+
+main {
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	margin: 0;
+	padding: 0;
+	;
+}
+
+.headshot {
+	border-style: solid;
+	border-color: #99F1E9;
+	border-width: 6px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+h1, h2 {
+	color: white;
+	font-family: 'Bellota Text';
+	font-style: oblique;
+	width: 500px;
+	text-align: center;
+	margin: auto;
+	}
+
+p{
+	font-family: "Bellota Text";
+	color: white;
+	font-size: 16px;
+	width: 700px;
+	text-align: center;
+	margin: auto;
+}
+
+ul, ol, li {
+	font-family: "Bellota Text";
+	color: white;
+	font-size: 16px;
+	list-style-position: inside;
+	width: 300px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+a:link    { color: #99F1E9;  }
+a:visited { color: rgb(7, 32, 100);   }
+a:hover   { color: rgb(107, 0, 128); }
+a:active  { color: pink;  }
+
+footer {
+	text-align: center;
+	background-color:black;
+	color: #99F1E9;
+	font-family: 'Annie Use Your Telescope';
+	font-size: 14px;
+	line-height: 30px
+}
