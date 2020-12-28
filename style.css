@@ -5,7 +5,7 @@ header, .student{
 	text-align: center;
 	background-color:black;
 	color: #99F1E9;
-	font-family: 'Annie Use Your Telescope';
+	font-family: 'Annie Use Your Telescope', cursive;
 	font-size: 25px;
 	margin-top: 0px;
 	padding-bottom:10px;
@@ -13,7 +13,7 @@ header, .student{
 	}
 
 .danielle {
-		font-family: 'Bad Script';
+		font-family: 'Bad Script', cursive;
 		font-size: 36px;
 		color: #99F1E9;
 		margin-top: auto;
@@ -23,7 +23,7 @@ header, .student{
 
 body {
 	background-color: #514E56;
-	text-align: center;
+	text-align: center;	
 	margin: auto;
 }	
 
@@ -44,17 +44,17 @@ main {
 	margin-top: 10px;
 }
 
-h1, h2, h3 {
+h1, h2 {
 	color: white;
-	font-family: 'Bellota Text';
+	font-family: 'Bellota Text', cursive;
 	font-style: oblique;
 	width: 500px;
 	text-align: center;
 	margin: auto;
 	}
 
-p{
-	font-family: "Bellota Text";
+p, h3 {
+	font-family: 'Bellota Text', cursive;
 	color: white;
 	font-size: 16px;
 	width: 700px;
@@ -83,5 +83,10 @@ footer {
 	color: #99F1E9;
 	font-family: 'Annie Use Your Telescope';
 	font-size: 14px;
-	line-height: 30px
+	line-height: 30px;
+	margin-bottom: 0;
+}
+
+hr {
+	width: 500px;
 }
